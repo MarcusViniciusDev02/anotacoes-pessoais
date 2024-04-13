@@ -1,0 +1,6 @@
+**MEMÓRIA - STACK E HEAP**
+
+--Stack--Pilha--
+Armazena um processo em cima do outro. 
+- O primeiro a ser posto, é o último a ser retirado. Como pratos, um em cima do outro. 
+
